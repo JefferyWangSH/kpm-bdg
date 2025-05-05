@@ -1,2 +1,2 @@
 # kpm-bdg
-Kernel polynomial method applying to BdG Hamiltonian.
+Kernel polynomial method applied to BdG Hamiltonian.
